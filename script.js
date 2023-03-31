@@ -5,8 +5,3 @@ function sayHi() {
 function sayBye() {
   alert('bye');
 }
-
-function Byee() {
-  alert('bye');
-}
-
