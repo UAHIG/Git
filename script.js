@@ -6,8 +6,7 @@ function sayBye() {
   alert('bye');
 }
 
-function Bye() {
+function Byee() {
   alert('bye');
 }
 
-// and there many changes
