@@ -5,3 +5,6 @@ function sayHi() {
 function sayBye() {
   alert('bye');
 }
+function sayFic() {
+  alert('Fic');
+}
